@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录阅读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 069 篇 - 百家乐Ai预测分析工具：账户与房间是两个不同的分组维度](https://github.com/TGmszrcsz/baccarat-ai-069) ｜ [下一篇：第 071 篇 - 百家乐Ai预测分析工具：让页面标题直接说明当前数据范围](https://github.com/TGmszrcsz/baccarat-ai-071)
+
+<!-- article-chain:end -->
+
 相同字段名在不同页面代表不同含义。本篇围绕“字段字典让多种记录页面能够共同阅读”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
